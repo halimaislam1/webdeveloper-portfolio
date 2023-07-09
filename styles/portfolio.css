@@ -130,8 +130,8 @@ main{
 }
 .info-tittle {
     color:#757575;
+    font-weight: bold;
 }
 .info-description{
-font:bolder;
-
+    font: bold;
 }
